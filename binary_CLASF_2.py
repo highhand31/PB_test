@@ -426,6 +426,5 @@ if __name__ == "__main__":
     CLASF.train_addr(x_train_addr, x_train_label, x_test_addr, x_test_label, GPU_ratio=GPU_ratio, epochs=epochs,
                 batch_size=batch_size, fine_tune=False)
 
-    print("This is test5 for github trail!")
 
-
+    print("github test")
