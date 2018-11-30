@@ -427,4 +427,4 @@ if __name__ == "__main__":
                 batch_size=batch_size, fine_tune=False)
 
 
-    print("github test")
+    print("update  update update")
